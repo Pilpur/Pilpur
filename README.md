@@ -7,23 +7,23 @@
 </div>
 
 <div align="center">
-    <h2>🔧 Technologies I'm using</h2>
-    <code><img width=22 href="./src/linux.svg" /></code>
-    <code><img width=22 href="./src/git.svg" /></code>
-    <code><img width=22 href="./src/vscode.svg" /></code>
-    <code><img width=22 href="./src/c.svg" /></code>
-    <code><img width=22 href="./src/csharp.svg" /></code>
-    <code><img width=22 href="./src/python.svg" /></code>
-    <code><img width=22 href="./src/html.svg" /></code>
-    <code><img width=22 href="./src/css.svg" /></code>
-    <code><img width=22 href="./src/sass.svg" /></code>
-    <code><img width=22 href="./src/react.svg" /></code>
-    <code><img width=22 href="./src/typescript.svg" /></code>
-    <code><img width=22 href="./src/mysql.svg" /></code>
-    <code><img width=22 href="./src/docker.svg" /></code>
-    <code><img width=22 href="./src/go.svg" /></code>
-    <code><img width=22 href="./src/bitcoin.svg" /></code>
-    <code><img width=22 href="./src/flutter.svg" /></code>
+    <h2>🔧 Technologies I'm using :</h2>
+    <code><img width="22" src="./src/linux.svg" /></code>
+    <code><img width="22" src="./src/git.svg" /></code>
+    <code><img width="22" src="./src/vscode.svg" /></code>
+    <code><img width="22" src="./src/c.svg" /></code>
+    <code><img width="22" src="./src/csharp.svg" /></code>
+    <code><img width="22" src="./src/python.svg" /></code>
+    <code><img width="22" src="./src/html.svg" /></code>
+    <code><img width="22" src="./src/css.svg" /></code>
+    <code><img width="22" src="./src/sass.svg" /></code>
+    <code><img width="22" src="./src/react.svg" /></code>
+    <code><img width="22" src="./src/typescript.svg" /></code>
+    <code><img width="22" src="./src/mysql.svg" /></code>
+    <code><img width="22" src="./src/docker.svg" /></code>
+    <code><img width="22" src="./src/go.svg" /></code>
+    <code><img width="22" height="22" src="./src/bitcoin.svg" /></code>
+    <code><img width="22" src="./src/flutter.svg" /></code>
     <br/>
     <br/>
 </div>
