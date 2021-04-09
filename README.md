@@ -30,8 +30,8 @@
 
 <div align="center">
 <h2>✨ Contact ✨</h2>
-    <code><a href="mailto:tanguy.maraux@gmail.com" title="Email"><img width="22" src=""> Mail</a></code>
-    <code><a href="https://www.linkedin.com/in/tanguy-maraux-1555041b0/" title="LinkedIn Profile"><img width="22" src=""> LinkedIn</a></code>
-    <code><a href="https://www.instagram.com/guytanlalegende/" title="Instagram Profile"><img width="22" src=""> Instagram</a></code>
-    <code><a href="https://twitter.com/Guytanlalegende" title="Twitter Profile"><img width="22" src=""> Twitter</a></code>
+    <code><a href="mailto:tanguy.maraux@gmail.com" title="Email"><img width="22" src="./src/mail.svg"> Mail</a></code>
+    <code><a href="https://www.linkedin.com/in/tanguy-maraux-1555041b0/" title="LinkedIn Profile"><img width="22" src="./src/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.instagram.com/guytanlalegende/" title="Instagram Profile"><img width="22" src="./src/instagram.svg"> Instagram</a></code>
+    <code><a href="https://twitter.com/Guytanlalegende" title="Twitter Profile"><img width="22" src="./src/twitter.svg"> Twitter</a></code>
 </div>
