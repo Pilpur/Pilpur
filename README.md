@@ -8,22 +8,22 @@
 
 <div align="center">
     <h2>🔧 Technologies I'm using</h2>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/linux.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/git.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/vscode.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/c.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/csharp.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/python.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/html.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/css.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/sass.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/react.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/typescript.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/mysql.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/docker.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/go.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/bitcoin.svg" /></code>
-    <code><img width=22 href="https://raw.githubusercontent.com/Pilpur/master/src/flutter.svg" /></code>
+    <code><img width=22 href="./src/linux.svg" /></code>
+    <code><img width=22 href="./src/git.svg" /></code>
+    <code><img width=22 href="./src/vscode.svg" /></code>
+    <code><img width=22 href="./src/c.svg" /></code>
+    <code><img width=22 href="./src/csharp.svg" /></code>
+    <code><img width=22 href="./src/python.svg" /></code>
+    <code><img width=22 href="./src/html.svg" /></code>
+    <code><img width=22 href="./src/css.svg" /></code>
+    <code><img width=22 href="./src/sass.svg" /></code>
+    <code><img width=22 href="./src/react.svg" /></code>
+    <code><img width=22 href="./src/typescript.svg" /></code>
+    <code><img width=22 href="./src/mysql.svg" /></code>
+    <code><img width=22 href="./src/docker.svg" /></code>
+    <code><img width=22 href="./src/go.svg" /></code>
+    <code><img width=22 href="./src/bitcoin.svg" /></code>
+    <code><img width=22 href="./src/flutter.svg" /></code>
     <br/>
     <br/>
 </div>
