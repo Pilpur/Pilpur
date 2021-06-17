@@ -32,7 +32,7 @@
     <h2>🔥 Some stats 🔥</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=Pilpur&count_private=true&show_icons=true&theme=dracula"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilpur&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilpur&layout=compact&langs_count=10"/>
 </div>
 
 <div align="center">
