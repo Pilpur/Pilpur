@@ -30,15 +30,15 @@
 
 <div align="center">
     <h2>🔥 Some stats 🔥</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Pilpur&count_private=true&show_icons=true&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tanguymaraux&count_private=true&show_icons=true&theme=dracula"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilpur&layout=compact&langs_count=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguymaraux&layout=compact&langs_count=10"/>
 </div>
 
 <div align="center">
 <h2>✨ Contact ✨</h2>
     <code><a href="mailto:tanguy.maraux@gmail.com" title="Email"><img width="24" src="./src/mail.svg"> Mail</a></code>
-    <code><a href="https://www.linkedin.com/in/tanguy-maraux-1555041b0/" title="LinkedIn Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/tanguy-maraux/" title="LinkedIn Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.instagram.com/guytanlalegende/" title="Instagram Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/instagram.svg"> Instagram</a></code>
     <code><a href="https://twitter.com/Guytanlalegende" title="Twitter Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/twitter.svg"> Twitter</a></code>
 </div>
