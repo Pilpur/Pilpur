@@ -11,8 +11,11 @@
     <code><img width="24" src="./src/linux.svg" /></code>
     <code><img width="24" src="./src/git.svg" /></code>
     <code><img width="24" src="./src/vscode.svg" /></code>
+    <code><img width="24" src="./src/vim.svg" /></code>
+    <code><img width="24" src="./src/c++.svg" /></code>
     <code><img width="24" src="./src/c.svg" /></code>
     <code><img width="24" src="./src/csharp.svg" /></code>
+    <code><img width="24" src="./src/java.svg" /></code>
     <code><img width="24" src="./src/python.svg" /></code>
     <code><img width="24" src="./src/html.svg" /></code>
     <code><img width="24" src="./src/css.svg" /></code>
@@ -22,8 +25,6 @@
     <code><img width="24" src="./src/mysql.svg" /></code>
     <code><img width="24" src="./src/docker.svg" /></code>
     <code><img width="24" src="./src/go.svg" /></code>
-    <code><img width="24" height="22" src="./src/bitcoin.svg" /></code>
-    <code><img width="24" src="./src/flutter.svg" /></code>
     <br/>
     <br/>
 </div>
