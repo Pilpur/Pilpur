@@ -40,6 +40,6 @@
 <h2>✨ Contact ✨</h2>
     <code><a href="mailto:tanguy.maraux@gmail.com" title="Email"><img width="24" src="./src/mail.svg"> Mail</a></code>
     <code><a href="https://www.linkedin.com/in/tanguy-maraux/" title="LinkedIn Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.instagram.com/guytanlalegende/" title="Instagram Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/instagram.svg"> Instagram</a></code>
+    <code><a href="https://www.instagram.com/guytanlalegende/" title="Instagram Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/insta.svg"> Instagram</a></code>
     <code><a href="https://twitter.com/Guytanlalegende" title="Twitter Profile" target="_blank" rel="noopener noreferrer"><img width="24" src="./src/twitter.svg"> Twitter</a></code>
 </div>
